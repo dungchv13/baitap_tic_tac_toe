@@ -1,5 +1,5 @@
-const ROWS = 10;
-const CELLS = 10;
+const ROWS = 20;
+const CELLS = 20;
 let arr = [];
 let turn = 1;
 
